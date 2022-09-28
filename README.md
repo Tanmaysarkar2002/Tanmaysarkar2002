@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmaysarkar2002&label=Profile%20views&color=0e75b6&style=flat" alt="tanmaysarkar2002" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently studying Electronics and Communication Engineering<br>🌱 I’m currently learning everything:)<br>💬 Ask me about Python<br>📫 reach me tanmaysarkar959@gmail.com<br>⚡ Fun fact I love to play Valorant
+🔭 I’m currently studying Electronics and Communication Engineering<br>🌱 Currently learning everything:)<br>💬 Ask me about Python<br>📫 reach me tanmaysarkar959@gmail.com<br>⚡ Fun fact I love to play Valorant
 
 
 ## 🌐 Socials:
