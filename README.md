@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c63ff&height=220&section=header&text=Tanmay%20Sarkar&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%E2%80%A2%20System%20Builder%20%E2%80%A2%20Biker&descAlignY=55&descSize=18&descColor=8b949e" width="100%"/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=SDE+III+%40+IzooLogic+%7C+Building+at+Scale;Python+%E2%80%A2+Rust+%E2%80%A2+Django+%E2%80%A2+Kubernetes+%E2%80%A2+Kafka;Microservices+%7C+Distributed+Systems+%7C+AI%2FML;1000%2B+req%2Fmin+APIs+%26+Sunday+bike+rides+%F0%9F%8F%8D%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Backend+Engineer+%7C+Building+at+Scale;Python+%E2%80%A2+Rust+%E2%80%A2+Django+%E2%80%A2+Kubernetes+%E2%80%A2+Kafka;Microservices+%7C+Distributed+Systems+%7C+AI%2FML;1000%2B+req%2Fmin+APIs+%26+Sunday+bike+rides+%F0%9F%8F%8D%EF%B8%8F" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -20,20 +20,6 @@
 
 ```yaml
 name: Tanmay Sarkar
-role: Software Development Engineer III @ IzooLogic
-location: Jaipur, India
-portfolio: https://tanmaysarkar.dev
-
-what_i_do:
-  - Lead a 5-member engineering team
-  - Architect microservices on bare-metal Kubernetes
-  - Build AI-driven security analysis platforms
-  - Design distributed scraping pipelines (surface + dark web)
-  - Ship APIs that handle 1,000+ req/min
-
-previously:
-  - Backend Developer @ Solytics Partners (AML SaaS for global fintech)
-  - Cut API response times by 65% (1.4s → 0.5s)
 
 education: "B.Tech ECE — but my heart was always in backend engineering"
 
@@ -80,40 +66,8 @@ fun_fact: >
 
 </div>
 
-<!-- WORK EXPERIENCE -->
-## <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="30"> &nbsp;Work Experience
-
-<table>
-<tr>
-<td width="100" align="center"><b>Jul 2024<br/>Present</b></td>
-<td>
-<b>SDE III</b> @ <b>IzooLogic</b> — Jaipur, IN<br/>
-<sub>Leading a 5-member team | Bare-metal K8s microservices | AI-driven code security platform with RAG pipelines (92% accuracy) | Kafka event streaming | High-throughput APIs (1K+ req/min) | Dark web scraping pipelines</sub>
-</td>
-</tr>
-<tr>
-<td width="100" align="center"><b>Mar 2023<br/>Jun 2024</b></td>
-<td>
-<b>Backend Developer</b> @ <b>Solytics Partners</b> — Pune, IN<br/>
-<sub>Production-grade REST APIs for AML SaaS | Celery + Redis async processing (65% latency reduction) | Multi-layered auth (OAuth, JWT, API Keys) | AWS (EC2, S3, EKS) | Elasticsearch + Airflow ETL</sub>
-</td>
-</tr>
-</table>
-
 <!-- PROJECTS -->
 ## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="30"> &nbsp;Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Tanmaysarkar2002">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanmaysarkar2002&repo=DockerWatchdog&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9" alt="DockerWatchdog"/>
-</a>
-&nbsp;
-<a href="https://github.com/Tanmaysarkar2002">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanmaysarkar2002&repo=Data-Harvester&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9" alt="Data Harvester"/>
-</a>
-
-</div>
 
 | Project | Stack | What it does |
 |---------|-------|-------------|
@@ -122,7 +76,7 @@ fun_fact: >
 | **LinkedIn Jobs Intelligence** | `Selenium` `PostgreSQL` | Automated job market analysis with intelligent filtering and indexing |
 
 <!-- GITHUB STATS -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;GitHub Analytics
+## :chart_with_upwards_trend: &nbsp;GitHub Analytics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tanmaysarkar2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&ring_color=6c63ff" alt="GitHub Stats"/>
