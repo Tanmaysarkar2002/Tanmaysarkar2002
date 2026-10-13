@@ -1,0 +1,17 @@
+{
+  "login": "Tanmaysarkar2002",
+  "ride": [
+    ["WANDERER", "started the ride", "#ffd166"],
+    ["GRADUATE", "B.Tech, Gwalior", "#a8c8ff"],
+    ["ON THE CLOCK", "first job, Pune", "#9cc58a"],
+    ["LEVEL UP", "SDE III, Jaipur", "#ff9f80"],
+    ["HIGH ALTITUDE", "rode to Ladakh", "#d6c8ff"],
+    ["CHAI TIME", "still riding", "#ffd29a"]
+  ],
+  "github_manual": {
+    "QUICKDRAW": false,
+    "YOLO": false,
+    "PAIR EXTRAORDINAIRE": 0,
+    "GALAXY BRAIN": 0
+  }
+}
